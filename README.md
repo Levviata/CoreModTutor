@@ -32,6 +32,7 @@ GitHub repository link (for posteriority)：
 [https://github.com/xfl03/CoreModTutor](https://github.com/xfl03/CoreModTutor)
 
 The original code used in the tutorial is licensed under MIT and can be used freely.  
+
 The Forge code used in the tutorial is licensed under LGPL and is copyrighted by the Forge team.
 
 ## [Cheat sheet / Summary](SUMMARY.md)
