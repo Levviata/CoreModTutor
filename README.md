@@ -1,5 +1,5 @@
 # Minecraft version 1.3.2-1.15.2 / FML CoreMod Development Tutorials
-_(Shitty translation to English by @Levviata using [DeepL](https://www.deepl.com/en/translator) and intuition)_
+_(Crude translation to English by @Levviata using [DeepL](https://www.deepl.com/en/translator) and guess-work)_
 
 [**Blue links**](#) indicate that this section has been written, and **black** text indicates that it has not been completed.
 
